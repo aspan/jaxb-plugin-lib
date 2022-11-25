@@ -26,7 +26,7 @@ package com.kscs.util.plugins.xjc.base;
 
 import java.lang.reflect.Field;
 
-import com.sun.xml.bind.api.impl.NameConverter;
+import org.glassfish.jaxb.core.api.impl.NameConverter;
 
 /**
  * @author Mirko Klemm 2015-02-13
